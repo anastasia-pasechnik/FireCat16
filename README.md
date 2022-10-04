@@ -3,5 +3,5 @@
 software engineering and information management/data. 
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on projects that will widen my perspective of the field and help me gain experience.
-- 📫 How to reach me: thefirecat16@gmail.com
+- 📫 How to reach me: anastasiavpas@gmail.com
 
